@@ -44,3 +44,6 @@ The designs were created to the following widths:
 
 https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
 
+
+NB: .ms stands for music section .. chillax ! 
+
